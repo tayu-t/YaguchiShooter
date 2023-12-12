@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "YaguchiShooter", "YaguchiShooter\YaguchiShooter.vcxproj", "{D45A0046-B991-4ACB-B22F-AB7DFA959FBF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D45A0046-B991-4ACB-B22F-AB7DFA959FBF}.Debug|x64.ActiveCfg = Debug|x64
+		{D45A0046-B991-4ACB-B22F-AB7DFA959FBF}.Debug|x64.Build.0 = Debug|x64
+		{D45A0046-B991-4ACB-B22F-AB7DFA959FBF}.Release|x64.ActiveCfg = Release|x64
+		{D45A0046-B991-4ACB-B22F-AB7DFA959FBF}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {494FA04C-4B12-459D-94A1-4F13697BB563}
+	EndGlobalSection
+EndGlobal
